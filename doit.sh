@@ -1,6 +1,6 @@
 while [ 1 ]
 do
-	out=$(1632824786).txt
+	out=$(date +%s).txt
 	curl "http://api.open-notify.org/iss-now.json" > $out
 	git add -A
 	git commit -m "changed $(date +%s)"
