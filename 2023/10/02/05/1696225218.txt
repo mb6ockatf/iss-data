@@ -1,0 +1,1 @@
+{"iss_position": {"latitude": "50.9424", "longitude": "165.0986"}, "timestamp": 1696225218, "message": "success"}
